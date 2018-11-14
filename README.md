@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> My 2018 Semester</title>
+  <h1>My 2018 Semester</h1>
 </head>
 
 <body>
-<h1> Visual Media </h1>
-  <h2> Taught by Carlos Evia </h2>
+<h2> Visual Media </h2>
+  <h3> Taught by Carlos Evia </h3>
     <p> Best class ever! </p>
     
